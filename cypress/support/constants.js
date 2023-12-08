@@ -1,0 +1,8 @@
+export const BASE_URL = 'https://www.goswadesi.com'
+export const GROCERIES_URL = 'https://www.goswadesi.com/product-category/groceries/'
+export const PULSES_URL = 'https://www.goswadesi.com/product-category/groceries/grains-pulses/'
+export const SPICES_URL = 'https://www.goswadesi.com/product-category/groceries/spices/'
+export const SWEETS_URL = 'https://www.goswadesi.com/product-category/sweets/'
+export const PERSONNEL_CARE_URL = 'https://www.goswadesi.com/product-category/personnel-care/'
+export const MEDICINE_URL = 'https://www.goswadesi.com/product-category/traditional-medicine/'
+export const COOKWARE_URL = 'https://www.goswadesi.com/product-category/cookware/'
